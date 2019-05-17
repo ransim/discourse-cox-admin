@@ -2,8 +2,8 @@
 # about: # COX Game Account Admin integrated to discourse
 # version: 0.1
 # author: Mary Wheeler (@Ransim)
-# license: https://github.com/procourse/discourse-cox-admin/blob/master/LICENSE
-# url: https://github.com/procourse/discourse-cox-admin
+# license: https://github.com/ransim/discourse-cox-admin/blob/master/LICENSE
+# url: https://github.com/ransim/discourse-cox-admin
 
 enabled_site_setting :discourse_cox_admin_enabled
 
