@@ -10,4 +10,4 @@ enabled_site_setting :discourse_cox_admin_enabled
 register_asset 'stylesheets/discourse-cox-admin.scss'
 
 load File.expand_path('../lib/discourse-cox-admin/engine.rb', __FILE__)
- 
+
